@@ -1,4 +1,4 @@
-package cn.itcast.websocket.spring;
+package com.mama.websocket.spring;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.CloseStatus;

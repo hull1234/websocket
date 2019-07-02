@@ -1,4 +1,4 @@
-package cn.itcast.websocket;
+package com.mama.websocket;
 
 import javax.websocket.*;
 import javax.websocket.server.PathParam;

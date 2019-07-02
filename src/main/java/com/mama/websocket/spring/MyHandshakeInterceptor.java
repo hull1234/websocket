@@ -1,4 +1,4 @@
-package cn.itcast.websocket.spring;
+package com.mama.websocket.spring;
 
 import org.springframework.http.server.ServerHttpRequest;
 import org.springframework.http.server.ServerHttpResponse;

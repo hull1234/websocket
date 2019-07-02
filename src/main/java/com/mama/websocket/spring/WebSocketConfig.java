@@ -1,4 +1,4 @@
-package cn.itcast.websocket.spring;
+package com.mama.websocket.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
